@@ -128,15 +128,3 @@ Cada cidade recebe um **Score ESG** calculado automaticamente (0 a 10) com base 
 - **Score Governança:** índice de transparência + conformidade legal + anticorrupção
 
 ---
-
-## ✅ Checklist de Entrega
-
-| Item | OK |
-|---|---|
-| Projeto compactado em .ZIP com estrutura organizada | ☑ |
-| Dockerfile funcional | ☑ |
-| docker-compose.yml com staging e produção | ☑ |
-| Pipeline com etapas de build, teste e deploy | ☑ |
-| README.md com instruções e prints | ☑ |
-| Dados de exemplo carregados na inicialização | ☑ |
-| Documentação técnica com evidências (PDF ou PPT) | ☐ |
